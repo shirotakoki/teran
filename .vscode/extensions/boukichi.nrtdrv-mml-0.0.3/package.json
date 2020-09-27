@@ -1,0 +1,49 @@
+{
+	"name": "nrtdrv-mml",
+	"displayName": "NRTDRV-MML",
+	"description": "NRTDRV MML",
+	"version": "0.0.3",
+	"publisher": "boukichi",
+	"icon": "nrtdrv_mml.png",
+	"engines": {
+		"vscode": "^1.13.0"
+	},
+	"categories": [
+		"Languages"
+	],
+	"contributes": {
+		"languages": [
+			{
+				"id": "nrtdrv",
+				"aliases": [
+					"nrtdrv"
+				],
+				"extensions": [
+					".mml"
+				],
+				"configuration": "./language-configuration.json"
+			}
+		],
+		"grammars": [
+			{
+				"language": "nrtdrv",
+				"scopeName": "source.nrtdrv",
+				"path": "./syntaxes/nrtdrv.tmLanguage.json"
+			}
+		]
+	},
+	"license": "https://github.com/BouKiCHi/vscode-nrtdrv/blob/master/LICENSE",
+	"homepage": "https://github.com/BouKiCHi/vscode-nrtdrv/blob/master/README.md",
+	"bugs": {
+		"url": "https://github.com/BouKiCHi/vscode-nrtdrv/issues"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/BouKiCHi/vscode-nrtdrv.git"
+	},
+	"__metadata": {
+		"id": "1d9eae87-97b2-4099-bfad-bab9cdac02af",
+		"publisherId": "b53730a3-c9b0-44be-8b59-46dbec638ad1",
+		"publisherDisplayName": "BouKiCHi"
+	}
+}

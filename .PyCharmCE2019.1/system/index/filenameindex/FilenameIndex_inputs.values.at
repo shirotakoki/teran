@@ -1,0 +1,316 @@
+contextvars.pyKhandygadataclasses.pygenericpath.pypickletools.pyrlcompleter.pyMakassarsre_compile.pytracemalloc.py_compression.py_osx_support.pyconfigparser.pymodulefinder.pymultiprocessingdummy__init__.pyconnection.py
+heap.py
+pool.pySakhalin
+util.pyspawn.py	queues.py
+context.py
+process.pyShanghai__init__.pymanagers.pyreduction.pyconnection.pyforkserver.pypopen_fork.pysynchronize.pyTashkentsharedctypes.pyresource_sharer.pypopen_forkserver.pypopen_spawn_posix.pypopen_spawn_win32.pysemaphore_tracker.pysocketserver.py_dummy_thread.py_sitebuiltins.pyTel_Avivsre_constants.py__phello__.foo.py_compat_pickle.pydummy_threading.py_collections_abc.py_threading_local.pyUst-Nera	Ashkhabad	Chongqing	Chungking	Famagusta	Hong_Kong	Jerusalem	Kamchatka	Kathmandu	Pontianak	Pyongyang	Qyzylorda	Samarkand	Singapore	Vientiane
+Choibalsan
+Phnom_Penh
+Ulan_BatorHo_Chi_MinhKrasnoyarskNovosibirskUlaanbaatarVladivostokKuala_LumpurNovokuznetskSrednekolymskUjung_PandangYekaterinburgCubaEireGMT0IranW-SUZuluChileContinentalEasterIslandEgyptGMT+0GMT-0JapanLibya	AfricaJubaLomeAccraCairoCeutaDakarLagosTunis	Asmara	Asmera	Bamako	Bangui	Banjul	Bissau	Douala	Harare	Kigali	Luanda	Lusaka	Malabo	Maputo	Maseru	Niamey
+Abidjan
+Algiers
+Conakry
+Kampala
+Mbabane
+Nairobi
+TripoliBlantyreDjiboutiEl_AaiunFreetownGaboroneKhartoumKinshasaMonroviaNdjamenaSao_TomeTimbuktuWindhoek	Bujumbura	Mogadishu
+Casablanca
+Libreville
+Lubumbashi
+Nouakchott
+Porto-NovoAddis_AbabaBrazzavilleOuagadougouJohannesburgDar_es_Salaam	ArcticLongyearbyen	BrazilAcreEastWest	DeNoronha	CanadaYukon
+Central
+Eastern
+PacificAtlanticMountainNewfoundlandSaskatchewanEast-Saskatchewan	EuropeKievOsloRigaRomeKirovMaltaMinskParisSofiaVaduz	Athens	Berlin	Dublin	Jersey	Lisbon	London	Madrid	Monaco	Moscow	Prague	Samara	Skopje	Tirane	Vienna	Warsaw	Zagreb	Zurich
+Andorra
+Belfast
+Nicosia
+Saratov
+Tallinn
+Vatican
+VilniusBelgradeBrusselsBudapestBusingenChisinauGuernseyHelsinkiIstanbulSarajevoTiraspolUzhgorod	Amsterdam	Astrakhan	Bucharest	Gibraltar	Ljubljana	Mariehamn	Podgorica	Stockholm	Ulyanovsk	Volgograd
+Bratislava
+Copenhagen
+Luxembourg
+San_Marino
+Simferopol
+ZaporozhyeIsle_of_ManKaliningrad	IndianMaheCocos	Chagos	Comoro
+Mayotte
+ReunionMaldives	Christmas	Kerguelen	MauritiusAntananarivo	Israel	Mexico
+BajaSur
+General	BajaNorte	Navajo	Poland	Turkey
+AmericaAdakAtkaLimaNomeArubaBahiaBelemBoiseJujuySitkaThule	Belize	Bogota	Cancun	Cayman	Cuiaba	Dawson	Denver	Guyana	Havana	Inuvik	Juneau	La_Paz	Maceio	Manaus	Merida	Nassau	Panama	Recife	Regina	Virgin
+Antigua
+Caracas
+Cayenne
+Chicago
+Cordoba
+Creston
+Curacao
+Detroit
+Godthab
+Grenada
+Halifax
+IndianaKnoxVevay
+Marengo
+Winamac	Tell_City	Vincennes
+PetersburgIndianapolis
+Iqaluit
+Jamaica
+Knox_IN
+Managua
+Marigot
+Mendoza
+Moncton
+Nipigon
+Noronha
+Ojinaga
+Phoenix
+Rosario
+Tijuana
+Toronto
+Tortola
+YakutatAnguillaAsuncionAtikokanBarbadosDominicaEdmontonEirunepeEnsenadaKentucky
+Louisville
+MonticelloMazatlanMiquelonMontrealNew_YorkResoluteSantaremSantiagoShiprockSt_JohnsSt_KittsSt_LuciaWinnipeg	Anchorage	Araguaina	ArgentinaJujuySalta
+Cordoba
+Mendoza
+Tucuman
+UshuaiaLa_RiojaSan_JuanSan_Luis	CatamarcaBuenos_AiresRio_GallegosComodRivadavia	Boa_Vista	Catamarca	Chihuahua	Fortaleza	Glace_Bay	Goose_Bay	Guatemala	Guayaquil	Matamoros	Menominee	Monterrey	Sao_Paulo	St_Thomas	Vancouver
+Costa_Rica
+Fort_Wayne
+Grand_Turk
+Guadeloupe
+Hermosillo
+Kralendijk
+Louisville
+Martinique
+Metlakatla
+Montevideo
+Montserrat
+Paramaribo
+Porto_Acre
+Rio_Branco
+St_Vincent
+WhitehorseEl_SalvadorFort_NelsonLos_AngelesMexico_CityPangnirtungPorto_VelhoPuerto_RicoRainy_RiverTegucigalpaThunder_BayYellowknifeBlanc-SablonBuenos_AiresCampo_GrandeDanmarkshavnDawson_CreekIndianapolisNorth_Dakota	Beulah	Center	New_SalemPunta_ArenasRankin_InletSanta_IsabelScoresbysundCambridge_BayCoral_HarbourLower_PrincesPort_of_SpainSanto_DomingoSt_BarthelemySwift_CurrentBahia_BanderasPort-au-Prince
+CST6CDT
+EST5EDT
+GB-Eire
+Iceland
+Jamaica
+MST7MDT
+NZ-CHAT
+PacificYapApiaFijiGuamNiueTrukWakeChuukEfateNauruPalauSamoa	Easter	Kosrae	Majuro	Midway	Noumea	Ponape	Saipan	Tahiti	Tarawa	Wallis
+Chatham
+Fakaofo
+Gambier
+Norfolk
+PohnpeiAucklandFunafutiHonoluluJohnstonPitcairn	Enderbury	Galapagos	Kwajalein	Marquesas	Pago_Pago	Rarotonga	Tongatapu
+KiritimatiGuadalcanalBougainvillePort_Moresby
+PST8PDT
+SystemVAST4CST6EST5MST7PST8YST9HST10
+AST4ADT
+CST6CDT
+EST5EDT
+MST7MDT
+PST8PDT
+YST9YDTAtlanticFaroe	Azores	Canary	Faeroe
+Bermuda
+Madeira
+Stanley	Jan_Mayen	Reykjavik	St_Helena
+Cape_VerdeSouth_GeorgiaHongkongPortugal	AustraliaACTLHINSWWestEuclaNorthPerthSouth	Currie	Darwin	Hobart	SydneyAdelaideBrisbaneCanberraLindemanTasmaniaVictoria	Lord_Howe	Melbourne
+Queensland
+YancowinnaBroken_Hill	Greenwich	Kwajalein	Singapore	Universal
+AntarcticaCaseyDavisSyowaTroll	Mawson	Palmer	Vostok
+McMurdo
+Rothera	Macquarie
+South_PoleDumontDUrville
+http1.0http.tclpkgIndex.tclauto.tclencodingbig5.enc	ascii.enc	cp437.enc	cp737.enc	cp775.enc	cp850.enc	cp852.enc	cp855.enc	cp857.enc	cp860.enc	cp861.enc	cp862.enc	cp863.enc	cp864.enc	cp865.enc	cp866.enc	cp869.enc	cp874.enc	cp932.enc	cp936.enc	cp949.enc	cp950.enc
+cp1250.enc
+cp1251.enc
+cp1252.enc
+cp1253.enc
+cp1254.enc
+cp1255.enc
+cp1256.enc
+cp1257.enc
+cp1258.enc
+ebcdic.enc
+euc-cn.enc
+euc-jp.enc
+euc-kr.enc
+gb1988.enc
+gb2312.enc
+koi8-r.enc
+koi8-u.enc
+symbol.encgb12345.enciso2022.encjis0201.encjis0208.encjis0212.encksc5601.encmacThai.enctis-620.encdingbats.encmacGreek.encmacJapan.encmacRoman.encshiftjis.enciso8859-1.enciso8859-2.enciso8859-3.enciso8859-4.enciso8859-5.enciso8859-6.enciso8859-7.enciso8859-8.enciso8859-9.encgb2312-raw.enciso2022-jp.enciso2022-kr.enciso8859-10.enciso8859-13.enciso8859-14.enciso8859-15.enciso8859-16.encmacIceland.encmacRomania.encmacTurkish.encmacUkraine.encmacCentEuro.encmacCroatian.encmacCyrillic.encmacDingbats.encinit.tclsafe.tcltclIndexword.tcl	clock.tcl
+parray.tclhistory.tclpackage.tcltix8.4.3prefTK.csTK.fs	TK.csc	TK.fsc
+Blue.cs
+Gray.csBlue.cscGray.cscMakefileTkWin.csTkWin.fs	Bisque.cs	tixmkpref	TkWin.csc	TkWin.fsc
+10Point.fs
+12Point.fs
+14Point.fs
+Bisque.csc
+Old12Pt.fs
+Old14Pt.fs
+SGIGray.cs
+TixGray.cs10Point.fsc12Point.fsc14Point.fscSGIGray.cscTixGray.cscpkgIndex.tclWmDefault.csWmDefault.fsWmDefault.pyWmDefault.cscWmDefault.fscWmDefault.tclWmDefault.txtdemos	widget
+bitmaps
+tix.gifbold.xbmcode.xpmexit.xpmnetw.xbmnetw.xpm	about.xpm	leftj.xbm
+drivea.xbm
+drivea.xpm
+italic.xbm
+rightj.xbm
+select.xpmcapital.xbmcenterj.xbmfilebox.xbmfilebox.xpmjustify.xbmnetwork.xbmnetwork.xpmoptmenu.xpmcombobox.xbmcombobox.xpmharddisk.xbmharddisk.xpmunderlin.xbm
+samples
+Xpm.tclTree.tclXpm1.tcl	Meter.tcl	SText.tcl
+BtnBox.tcl
+CmpImg.tcl
+DirDlg.tcl
+HList1.tcl
+Sample.tcl
+Select.tcl
+SGrid0.tcl
+SGrid1.tcl
+SHList.tclBalloon.tclChkList.tclCmpImg1.tclCmpImg2.tclCmpImg3.tclCmpImg4.tclControl.tclDirList.tclDirTree.tclDynTree.tclFileDlg.tclFileEnt.tclListNBK.tclOptMenu.tclPopMenu.tclSHList2.tclStdBBox.tclSTList1.tclSTList2.tclSTList3.tclSWindow.tclAllSampl.tclArrowBtn.tclCObjView.tclComboBox.tclDragDrop.tclEditGrid.tclEFileDlg.tclLabEntry.tclLabFrame.tclNoteBook.tclPanedWin.tclSListBox.tcltclIndexMkChoose.tclMkDirLis.tclMkSample.tclMkScroll.tcltixwidgets.tcl	fs.tcl
+bitmapsdecr.xbmdrop.xbmfile.giffile.xbmfile.xpmincr.xbminfo.gifinfo.xpmplus.gifplus.xbmplus.xpmtick.xbm	ck_on.xbm	cross.xbm	minus.gif	minus.xbm	minus.xpm
+ck_def.xbm
+ck_off.xbm
+folder.gif
+folder.xbm
+folder.xpm
+system.xbmnetwork.xbmplusarm.gifplusarm.xbmplusarm.xpmresize1.xbmresize2.xbmrestore.xbmsrcfile.gifsrcfile.xbmsrcfile.xpmwarning.gifwarning.xpmact_fold.gifact_fold.xbmact_fold.xpmbalarrow.xbmcbxarrow.xbmharddisk.xbmhourglas.xbmmaximize.xbmminimize.xbmminusarm.gifminusarm.xbmminusarm.xpmno_entry.gifno_entry.xpmopenfile.xbmopenfold.gifopenfold.xbmopenfold.xpmtextfile.giftextfile.xbmtextfile.xpmhourglas.maskmktransgif.tcl
+Tix.tclGrid.tclInit.tclMakefileTree.tcl	Event.tcl	HList.tcl	Meter.tcl	SGrid.tcl	Shell.tcl	SText.tcl	tix84.dll	tix84.lib	TList.tcl	Utils.tcl	VTree.tcl	WInfo.tcl
+BtnBox.tcl
+Compat.tcl
+DirBox.tcl
+DirDlg.tcl
+Select.tcl
+SHList.tcl
+STList.tcl
+VStack.tclBalloon.tclChkList.tclConsole.tclControl.tclDefSchm.tclDialogS.tclDirList.tclDirTree.tclDtlList.tclFileBox.tclFileCbx.tclFileDlg.tclFileEnt.tclHListDD.tclLabWidg.tclListNBk.tclOldUtil.tclOptMenu.tclPopMenu.tclResizeH.tclSimpDlg.tclStatBar.tclStdBBox.tclSWidget.tclSWindow.tclVResize.tclCObjView.tclComboBox.tclDragDrop.tclEFileBox.tclEFileDlg.tclFloatEnt.tclIconView.tclLabEntry.tclLabFrame.tclMultView.tclNoteBook.tclPanedWin.tclpkgIndex.tclPrimitiv.tclSListBox.tclStackWin.tclStdShell.tclVariable.tcl	tk86t.lib
+tcl86t.libtclConfig.shtkstub86.libtclstub86.libtclooConfig.shlibspython3.lib_tkinter.libpython37.liblibpython37.aToolsdemo	ss1.py
+beer.py
+life.pyhanoi.pymcast.py	eiffel.py	markov.py	queens.py	redemo.py	vector.py
+rpython.pyrpythond.pysortvisu.pyi18n	msgfmt.pypygettext.pymakelocalealias.py	parser
+unparse.py	pyncheX
+rgb.txtxlicense.txt
+Main.py
+ColorDB.py
+pynche.pyw__init__.pywebsafe.txtChipViewer.pyListViewer.pyTextViewer.pywebcolors.txtStripViewer.pySwitchboard.pynamedcolors.txtPyncheWidget.pyTypeinViewer.pyDetailsViewer.pyhtml40colors.txtpyColorChooser.py
+scripts	lll.py
+2to3.py
+crlf.py
+diff.py
+h2py.py
+lfcr.py
+suff.pybyext.pyfixps.pyifdef.pyndiff.pypdeps.pyptags.pyrgrep.pyserve.pywhich.py	dutree.py	eptags.py	fixcid.py	fixdiv.py	google.py	md5sum.py	mkreal.py	nm2def.py	pydoc3.py	pyvenv.py	smelly.py
+abitype.py
+finddiv.py
+pathfix.py
+pindent.pycheckpip.pycheckpyc.pycopytime.pylinktree.pyobjgraph.pypysource.pyreindent.pyuntabify.pybyteyears.pydb2pickle.pyfixheader.pyfixnotice.pyhighlight.pypickle2db.pyrun_tests.pytexi2html.pyfind-uname.pygprof2html.pymake_ctype.pypatchcheck.pyanalyze_dxp.pycleanfuture.pycombinerefs.pyfindlinksto.pyupdate_file.pyfindnocoding.pymailerdaemon.pyreindent-rst.pywin_add2path.pyparseentities.pygenerate_opcode_h.pyimport_diagnostics.pyfind_recursionlimit.pyparse_html5_entities.pyget-remote-certificate.py
+includeast.h	accu.h	asdl.h	code.h	dtoa.h	eval.h	node.h	pgen.h
+ceval.h
+pyfpe.h
+pymem.h
+token.hbitset.hcodecs.himport.hinternalgil.hmem.h	hamt.h	hash.h
+ceval.himport.h	condvar.h	context.h	pystate.h
+pygetopt.h
+warnings.hobject.hopcode.hosdefs.hpyhash.hpymath.hpyport.hPython.hpytime.h	compile.h	context.h	errcode.h	grammar.h	marshal.h	objimpl.h	pyarena.h	pyctype.h	pydebug.h	pyexpat.h	pymacro.h	pystate.h	ucnhash.h
+abstract.h
+datetime.h
+graminit.h
+osmodule.h
+parsetok.h
+pyatomic.h
+pyconfig.h
+pydtrace.h
+pyerrors.h
+pystrcmp.h
+pystrhex.h
+pystrtod.h
+pythread.h
+symtable.h
+warnings.hfileutils.hgenobject.hintrcheck.hpy_curses.hpycapsule.hpythonrun.hsetobject.hstructseq.hsysmodule.htraceback.htypeslots.hboolobject.hcellobject.hdictobject.henumobject.hfileobject.hfuncobject.hiterobject.hlistobject.hlongobject.hmodsupport.hpatchlevel.hPython-ast.hbltinmodule.hbytesobject.hclassobject.hdescrobject.hfloatobject.hframeobject.hlongintrepr.hmetagrammar.hodictobject.hpgenheaders.hpylifecycle.hpymacconfig.hrangeobject.hsliceobject.htupleobject.hmemoryobject.hmethodobject.hmoduleobject.hstructmember.hbytes_methods.hcomplexobject.hunicodeobject.hweakrefobject.hbytearrayobject.hnamespaceobject.hdynamic_annotations.h
+Scripts
+pip.exepip3.exe
+pip3.7.exeeasy_install.exeeasy_install-3.7.exeNEWS.txt
+python.exeLICENSE.txtpython3.dllpythonw.exepython37.dllvcruntime140.dllwordcount.py.imlworkspace.xmlmisc.xmlmodules.xml	parser.py
+_locale.py	typed_ast_lzma.py
+_abc.py
+_md5.py	_heapq.py_symtable.py
+marshal.py
+zlib.py_weakref.py
+_csv.pywinsound.py_codecs_jp.pyzipimport.pybinascii.py
+math.py_testbuffer.py
+_lsprof.py_codecs_kr.py_hashlib.py_testconsole.py_testcapi.py
+mmap.pyarray.py_warnings.pygc.py_codecs_cn.py
+_sre.py	winreg.pycmath.pyunicodedata.py_ctypes_test.py_overlapped.py
+_blake2.pybuiltins.pynt.py_sha1.py
+_bisect.py
+_imp.py_json.py
+audioop.py	select.py_sha3.py
+time.py_codecs_hk.py_elementtree.pyerrno.pyxxsubtype.py
+_sha256.py
+_ssl.py_sqlite3.py	sys.py
+_socket.pylazy_object_proxy
+pyexpat.py
+_ctypes.py
+_struct.py	msvcrt.py
+_bz2.py_testmultiphase.py_tkinter.py	_queue.pyitertools.py_yaml_tracemalloc.py_operator.py_codecs_tw.py
+_thread.py_functools.py
+_pickle.py_multiprocessing.py_stat.py
+_random.py	atexit.py
+_winapi.py
+_sha512.py_testimportmultiple.py
+_codecs.py_collections.py
+_string.py_datetime.py
+_ast.py
+_signal.py_codecs_iso2022.py_contextvars.py_asyncio.py	_io.py
+_opcode.py_decimal.pyfaulthandler.py_multibytecodec.py
+_msi.py	_ast27_ast3__init__.pyExtSlice.py	Delete.pyListComp.py	BitXor.py	Add.pyBreak.py
+SetComp.py	RShift.pyIs.pyexpr_context.pyBytes.pyYield.pyNonlocal.py	Del.pySuite.py
+UAdd.py
+List.pyClassDef.py
+keyword.pyGeneratorExp.py	Num.pyConstant.py
+AugLoad.pyAsyncWith.pyBinOp.pywithitem.py	Invert.pyAugAssign.pycmpop.py
+MatMult.pyAsyncFor.py	mod.py	Str.py	Module.pyAnnAssign.pyIndex.pyalias.py	Not.py	Return.py	Set.pyTuple.pyFunctionDef.py	Assert.pyOr.py
+expr.py	arg.pyarguments.pyWhile.py__init__.pyIn.pyStore.pyRaise.pyIf.pyIfExp.py
+Mult.pyEq.pyLt.pyAwait.pyContinue.py	GtE.pyImportFrom.py
+stmt.pyFormattedValue.pyoperator.py	Global.pyParam.py	And.pyAttribute.py
+Starred.pyYieldFrom.pyTypeIgnore.pycomprehension.py
+Call.pyExpression.pyGt.pyAsyncFunctionDef.pyInteractive.py
+USub.py	Div.pyJoinedStr.py	Pow.py
+Compare.py	For.pyDictComp.py	Assign.py	AST.pyAugStore.py	BitAnd.py
+Load.py	LShift.pyexcepthandler.py	LtE.pyNameConstant.pySubscript.pyFunctionType.py	boolop.py	Import.py	Sub.py
+Dict.pyIsNot.py	Lambda.py
+Pass.pyNotIn.pyEllipsis.py	Try.py
+With.pyFloorDiv.pyslice.py
+Name.pytype_ignore.pyNotEq.pyBitOr.py
+unaryop.pyExtSlice.py	Delete.pyListComp.py	BitXor.py	Add.pyBreak.py
+SetComp.py	RShift.pyIs.pyexpr_context.pyYield.py	Del.pySuite.py
+UAdd.py
+List.pyClassDef.py
+keyword.pyGeneratorExp.py	Num.py
+AugLoad.pyBinOp.py	Invert.pyAugAssign.pycmpop.pyTryExcept.py	mod.py	Str.py	Module.pyIndex.pyalias.py	Not.py	Return.py	Set.pyTuple.pyFunctionDef.py	Assert.pyOr.py
+expr.pyarguments.pyWhile.pyPrint.py__init__.pyIn.pyStore.pyRaise.pyIf.pyIfExp.py
+Mult.pyEq.pyLt.pyContinue.py	GtE.py
+Repr.pyImportFrom.py
+stmt.pyoperator.pyTryFinally.py	Global.pyParam.py	And.pyAttribute.pyTypeIgnore.pycomprehension.py
+Call.pyExpression.pyGt.pyInteractive.py
+USub.py	Div.py	Pow.py
+Compare.py	For.pyDictComp.py	Assign.py	AST.pyAugStore.py	BitAnd.py
+Load.py	LShift.pyexcepthandler.py	LtE.pySubscript.pyFunctionType.py	boolop.py	Import.py	Sub.py
+Dict.pyIsNot.py	Lambda.py
+Pass.pyNotIn.pyEllipsis.py
+With.pyFloorDiv.pyslice.py
+Exec.py
+Name.pytype_ignore.pyNotEq.pyBitOr.py
+unaryop.py
+cext.py__init__.pyCEmitter.py
+CParser.pyRepresenterError.pyScannerError.pyAliasToken.pyAnchorToken.pyScalarNode.pyConstructorError.pyDocumentEndToken.pyDocumentStartToken.pyTagToken.pyScalarEvent.pyBlockEndToken.pySequenceNode.pyComposerError.py
+Mark.pyReaderError.pyFlowEntryToken.pyFlowMappingEndToken.pySequenceEndEvent.pySequenceStartEvent.pyBlockMappingStartToken.pyBlockSequenceStartToken.pyKeyToken.pyStreamEndEvent.pyParserError.py__init__.pyValueToken.pyStreamStartToken.pyDirectiveToken.pyMappingNode.pyMappingEndEvent.pyDocumentStartEvent.pyEmitterError.pyAliasEvent.pyDocumentEndEvent.pyFlowMappingStartToken.pyMappingStartEvent.pyScalarToken.pySerializerError.pyBlockEntryToken.pyYAMLError.pyFlowSequenceStartToken.pyStreamEndToken.pyStreamStartEvent.pyFlowSequenceEndToken.pytest2 (1).midtest (3).midscorelist (1).py+� &ポスターテンプレート2019.ppttest2 (7).midtest (2).midtest (1).midtest2 (6).mid1803.05428 (2).pdf7_17MTG.pptxtest2 (2).midanalysisI.7.ans.pdfSetup_Sektor_WIN.ziptest2 (3).midanalysisI.7.pdf10(0716).pptxsample2.midNotoSansCJKjp-hinted (1).ziptest2 (4).mid
+sample.mid
+wakati.ziptest.midpython-3.7.4-amd64.exe	test2.mid7_17MTG.pdfsample2.midthemes2.jarthemes1.jarthemes0.jarthemes0b.jar%�  プレゼンテーション2.pdfSektor 32bit.lnkSektor 64bit.lnkdust_flows.cuegakuhu8.PNGlatent_space.PNG
+ans.PNGgakuhu5.PNG
+MTG.PNGgakuhu2.PNGgakuhu3PNG.PNGgakuhu4.PNG#� 落し物リスト_071619.xlsxtest2 (5).midwordcount.pymodules.xmlmisc.xmlworkspace.xmlwordcount.py.imltf.pymain1.py	idf.py

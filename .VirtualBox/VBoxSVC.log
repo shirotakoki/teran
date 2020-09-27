@@ -1,0 +1,16 @@
+30:14:59.617096 MainPower Log continuation - Log started 2020-09-12T05:40:57.862196800Z
+30:15:00.658569          Saving settings file "C:\Users\teran\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+30:15:00.726516          Saving settings file "C:\Users\teran\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+30:15:01.088066 dns-monitor HostDnsMonitor: updating information
+30:15:01.088116 dns-monitor HostDnsMonitor: unchanged
+30:15:24.197920          Saving settings file "C:\VM_Guest\VBox\Kali-Linux-2020.3(64bit)\Kali-Linux-2020.3(64bit).vbox" with version "1.16-windows"
+30:15:24.237536          Saving settings file "C:\VM_Guest\VBox\Kali-Linux-2020.3(64bit)\Kali-Linux-2020.3(64bit).vbox" with version "1.16-windows"
+30:16:18.352793          Saving settings file "C:\Users\teran\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+30:16:18.368128          Saving settings file "C:\Users\teran\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+30:16:18.386374          Saving settings file "C:\Users\teran\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+30:16:23.961369 main     VirtualBox: object deletion starts
+30:16:23.961421 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium 'C:\VM_Guest\VBox\Kali-Linux-2020.3(64bit)\Kali-Linux-2020.3-vbox-amd64-disk001.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+30:16:23.965752 main     HostDnsMonitor: shutting down ...
+30:16:23.965862 main     HostDnsMonitor: shut down
+30:16:23.971201 Watcher  ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={d0a0163f-e254-4e5b-a1f2-011cf991c38d} aComponent={VirtualBoxWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+30:16:23.972295 main     VirtualBox: object deleted

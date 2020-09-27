@@ -1,0 +1,169 @@
+# この viminfo ファイルは Vim 8.1 によって生成されました.
+# 変更する際には十分注意してください!
+
+# Viminfo version
+|1,4
+
+# このファイルが書かれた時の 'encoding' の値
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~h
+# コマンドライン 項目の履歴 (新しいものから古いものへ):
+:wq
+|2,0,1589866126,,"wq"
+:end
+|2,0,1589866067,,"end"
+:quit
+|2,0,1589866049,,"quit"
+:q
+|2,0,1543400749,,"q"
+
+# 検索文字列 項目の履歴 (新しいものから古いものへ):
+
+# 式 項目の履歴 (新しいものから古いものへ):
+
+# 入力行 項目の履歴 (新しいものから古いものへ):
+
+# デバッグ行 項目の履歴 (新しいものから古いものへ):
+
+# レジスタ:
+""-	CHAR	0
+	M
+|3,1,36,0,1,0,1589865067,"M"
+
+# ファイルマーク:
+'0  1  0  ~/Documents/python/study/.git/COMMIT_EDITMSG
+|4,48,1,0,1600092592,"~/Documents/python/study/.git/COMMIT_EDITMSG"
+'1  11  0  ~/Documents/python/study/.git/MERGE_MSG
+|4,49,11,0,1589866126,"~/Documents/python/study/.git/MERGE_MSG"
+'2  6  0  ~/Documents/CAI2/CreativeAI-FUN-Unity/.git/COMMIT_EDITMSG
+|4,50,6,0,1543400749,"~/Documents/CAI2/CreativeAI-FUN-Unity/.git/COMMIT_EDITMSG"
+'3  8  0  ~/Documents/CAI/CreativeAI-FUN-Unity/.git/COMMIT_EDITMSG
+|4,51,8,0,1542783458,"~/Documents/CAI/CreativeAI-FUN-Unity/.git/COMMIT_EDITMSG"
+'4  1  0  ~/Documents/CAI/CreativeAI-FUN-Unity/.git/MERGE_MSG
+|4,52,1,0,1541752111,"~/Documents/CAI/CreativeAI-FUN-Unity/.git/MERGE_MSG"
+
+# ジャンプリスト (新しいものが先):
+-'  1  0  ~/Documents/python/study/.git/COMMIT_EDITMSG
+|4,39,1,0,1600092592,"~/Documents/python/study/.git/COMMIT_EDITMSG"
+-'  11  0  ~/Documents/python/study/.git/MERGE_MSG
+|4,39,11,0,1589866126,"~/Documents/python/study/.git/MERGE_MSG"
+-'  11  0  ~/Documents/python/study/.git/MERGE_MSG
+|4,39,11,0,1589866126,"~/Documents/python/study/.git/MERGE_MSG"
+-'  7  0  ~/Documents/python/study/.git/MERGE_MSG
+|4,39,7,0,1589865066,"~/Documents/python/study/.git/MERGE_MSG"
+-'  7  0  ~/Documents/python/study/.git/MERGE_MSG
+|4,39,7,0,1589865066,"~/Documents/python/study/.git/MERGE_MSG"
+-'  1  0  ~/Documents/python/study/.git/MERGE_MSG
+|4,39,1,0,1589864948,"~/Documents/python/study/.git/MERGE_MSG"
+-'  1  0  ~/Documents/python/study/.git/MERGE_MSG
+|4,39,1,0,1589864948,"~/Documents/python/study/.git/MERGE_MSG"
+-'  6  0  ~/Documents/CAI2/CreativeAI-FUN-Unity/.git/COMMIT_EDITMSG
+|4,39,6,0,1543400749,"~/Documents/CAI2/CreativeAI-FUN-Unity/.git/COMMIT_EDITMSG"
+-'  6  0  ~/Documents/CAI2/CreativeAI-FUN-Unity/.git/COMMIT_EDITMSG
+|4,39,6,0,1543400749,"~/Documents/CAI2/CreativeAI-FUN-Unity/.git/COMMIT_EDITMSG"
+-'  6  0  ~/Documents/CAI2/CreativeAI-FUN-Unity/.git/COMMIT_EDITMSG
+|4,39,6,0,1543400749,"~/Documents/CAI2/CreativeAI-FUN-Unity/.git/COMMIT_EDITMSG"
+-'  6  0  ~/Documents/CAI2/CreativeAI-FUN-Unity/.git/COMMIT_EDITMSG
+|4,39,6,0,1543400749,"~/Documents/CAI2/CreativeAI-FUN-Unity/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Documents/CAI2/CreativeAI-FUN-Unity/.git/COMMIT_EDITMSG
+|4,39,1,0,1543400721,"~/Documents/CAI2/CreativeAI-FUN-Unity/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Documents/CAI2/CreativeAI-FUN-Unity/.git/COMMIT_EDITMSG
+|4,39,1,0,1543400721,"~/Documents/CAI2/CreativeAI-FUN-Unity/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Documents/CAI2/CreativeAI-FUN-Unity/.git/COMMIT_EDITMSG
+|4,39,1,0,1543400721,"~/Documents/CAI2/CreativeAI-FUN-Unity/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Documents/CAI2/CreativeAI-FUN-Unity/.git/COMMIT_EDITMSG
+|4,39,1,0,1543400721,"~/Documents/CAI2/CreativeAI-FUN-Unity/.git/COMMIT_EDITMSG"
+-'  8  0  ~/Documents/CAI/CreativeAI-FUN-Unity/.git/COMMIT_EDITMSG
+|4,39,8,0,1542783458,"~/Documents/CAI/CreativeAI-FUN-Unity/.git/COMMIT_EDITMSG"
+-'  8  0  ~/Documents/CAI/CreativeAI-FUN-Unity/.git/COMMIT_EDITMSG
+|4,39,8,0,1542783458,"~/Documents/CAI/CreativeAI-FUN-Unity/.git/COMMIT_EDITMSG"
+-'  8  0  ~/Documents/CAI/CreativeAI-FUN-Unity/.git/COMMIT_EDITMSG
+|4,39,8,0,1542783458,"~/Documents/CAI/CreativeAI-FUN-Unity/.git/COMMIT_EDITMSG"
+-'  8  0  ~/Documents/CAI/CreativeAI-FUN-Unity/.git/COMMIT_EDITMSG
+|4,39,8,0,1542783458,"~/Documents/CAI/CreativeAI-FUN-Unity/.git/COMMIT_EDITMSG"
+-'  8  0  ~/Documents/CAI/CreativeAI-FUN-Unity/.git/COMMIT_EDITMSG
+|4,39,8,0,1542783458,"~/Documents/CAI/CreativeAI-FUN-Unity/.git/COMMIT_EDITMSG"
+-'  8  0  ~/Documents/CAI/CreativeAI-FUN-Unity/.git/COMMIT_EDITMSG
+|4,39,8,0,1542783458,"~/Documents/CAI/CreativeAI-FUN-Unity/.git/COMMIT_EDITMSG"
+-'  8  0  ~/Documents/CAI/CreativeAI-FUN-Unity/.git/COMMIT_EDITMSG
+|4,39,8,0,1542783458,"~/Documents/CAI/CreativeAI-FUN-Unity/.git/COMMIT_EDITMSG"
+-'  8  0  ~/Documents/CAI/CreativeAI-FUN-Unity/.git/COMMIT_EDITMSG
+|4,39,8,0,1542783458,"~/Documents/CAI/CreativeAI-FUN-Unity/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Documents/CAI/CreativeAI-FUN-Unity/.git/COMMIT_EDITMSG
+|4,39,1,0,1542783428,"~/Documents/CAI/CreativeAI-FUN-Unity/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Documents/CAI/CreativeAI-FUN-Unity/.git/COMMIT_EDITMSG
+|4,39,1,0,1542783428,"~/Documents/CAI/CreativeAI-FUN-Unity/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Documents/CAI/CreativeAI-FUN-Unity/.git/COMMIT_EDITMSG
+|4,39,1,0,1542783428,"~/Documents/CAI/CreativeAI-FUN-Unity/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Documents/CAI/CreativeAI-FUN-Unity/.git/COMMIT_EDITMSG
+|4,39,1,0,1542783428,"~/Documents/CAI/CreativeAI-FUN-Unity/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Documents/CAI/CreativeAI-FUN-Unity/.git/COMMIT_EDITMSG
+|4,39,1,0,1542783428,"~/Documents/CAI/CreativeAI-FUN-Unity/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Documents/CAI/CreativeAI-FUN-Unity/.git/COMMIT_EDITMSG
+|4,39,1,0,1542783428,"~/Documents/CAI/CreativeAI-FUN-Unity/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Documents/CAI/CreativeAI-FUN-Unity/.git/COMMIT_EDITMSG
+|4,39,1,0,1542783428,"~/Documents/CAI/CreativeAI-FUN-Unity/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Documents/CAI/CreativeAI-FUN-Unity/.git/COMMIT_EDITMSG
+|4,39,1,0,1542783428,"~/Documents/CAI/CreativeAI-FUN-Unity/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Documents/CAI/CreativeAI-FUN-Unity/.git/MERGE_MSG
+|4,39,1,0,1541752111,"~/Documents/CAI/CreativeAI-FUN-Unity/.git/MERGE_MSG"
+-'  1  0  ~/Documents/CAI/CreativeAI-FUN-Unity/.git/MERGE_MSG
+|4,39,1,0,1541752111,"~/Documents/CAI/CreativeAI-FUN-Unity/.git/MERGE_MSG"
+-'  1  0  ~/Documents/CAI/CreativeAI-FUN-Unity/.git/MERGE_MSG
+|4,39,1,0,1541752111,"~/Documents/CAI/CreativeAI-FUN-Unity/.git/MERGE_MSG"
+-'  1  0  ~/Documents/CAI/CreativeAI-FUN-Unity/.git/MERGE_MSG
+|4,39,1,0,1541752111,"~/Documents/CAI/CreativeAI-FUN-Unity/.git/MERGE_MSG"
+-'  1  0  ~/Documents/CAI/CreativeAI-FUN-Unity/.git/MERGE_MSG
+|4,39,1,0,1541752111,"~/Documents/CAI/CreativeAI-FUN-Unity/.git/MERGE_MSG"
+-'  1  0  ~/Documents/CAI/CreativeAI-FUN-Unity/.git/MERGE_MSG
+|4,39,1,0,1541752111,"~/Documents/CAI/CreativeAI-FUN-Unity/.git/MERGE_MSG"
+-'  1  0  ~/Documents/CAI/CreativeAI-FUN-Unity/.git/MERGE_MSG
+|4,39,1,0,1541752111,"~/Documents/CAI/CreativeAI-FUN-Unity/.git/MERGE_MSG"
+-'  1  0  ~/Documents/CAI/CreativeAI-FUN-Unity/.git/MERGE_MSG
+|4,39,1,0,1541752111,"~/Documents/CAI/CreativeAI-FUN-Unity/.git/MERGE_MSG"
+-'  1  0  ~/Documents/CAI/CreativeAI-FUN-Unity/.git/MERGE_MSG
+|4,39,1,0,1541752111,"~/Documents/CAI/CreativeAI-FUN-Unity/.git/MERGE_MSG"
+-'  1  0  ~/Documents/CAI/CreativeAI-FUN-Unity/.git/MERGE_MSG
+|4,39,1,0,1541752111,"~/Documents/CAI/CreativeAI-FUN-Unity/.git/MERGE_MSG"
+-'  1  0  ~/Documents/CAI/CreativeAI-FUN-Unity/.git/MERGE_MSG
+|4,39,1,0,1541752111,"~/Documents/CAI/CreativeAI-FUN-Unity/.git/MERGE_MSG"
+-'  1  0  ~/Documents/CAI/CreativeAI-FUN-Unity/.git/MERGE_MSG
+|4,39,1,0,1541752111,"~/Documents/CAI/CreativeAI-FUN-Unity/.git/MERGE_MSG"
+-'  1  0  ~/Documents/CAI/CreativeAI-FUN-Unity/.git/MERGE_MSG
+|4,39,1,0,1541752111,"~/Documents/CAI/CreativeAI-FUN-Unity/.git/MERGE_MSG"
+-'  1  0  ~/Documents/CAI/CreativeAI-FUN-Unity/.git/MERGE_MSG
+|4,39,1,0,1541752111,"~/Documents/CAI/CreativeAI-FUN-Unity/.git/MERGE_MSG"
+-'  1  0  ~/Documents/CAI/CreativeAI-FUN-Unity/.git/MERGE_MSG
+|4,39,1,0,1541752111,"~/Documents/CAI/CreativeAI-FUN-Unity/.git/MERGE_MSG"
+-'  1  0  ~/Documents/CAI/CreativeAI-FUN-Unity/.git/MERGE_MSG
+|4,39,1,0,1541752111,"~/Documents/CAI/CreativeAI-FUN-Unity/.git/MERGE_MSG"
+
+# ファイル内マークの履歴 (新しいものから古いもの):
+
+> ~/Documents/python/study/.git/COMMIT_EDITMSG
+	*	1600092581	0
+	"	1	0
+
+> ~/Documents/python/study/.git/MERGE_MSG
+	*	1589866067	0
+	"	11	0
+	^	25	1
+	.	24	2
+	+	1	0
+	+	7	2
+	+	24	2
+
+> ~/Documents/CAI2/CreativeAI-FUN-Unity/.git/COMMIT_EDITMSG
+	*	1543400746	0
+	"	6	0
+
+> ~/Documents/CAI/CreativeAI-FUN-Unity/.git/COMMIT_EDITMSG
+	*	1542783454	0
+	"	8	0
+
+> ~/Documents/CAI/CreativeAI-FUN-Unity/.git/MERGE_MSG
+	*	1541752110	0
+	"	1	0

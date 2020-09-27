@@ -1,0 +1,9 @@
+"*":
+  core:
+    telemetryConsent: "limited"
+    themes: [
+      "one-dark-ui"
+      "one-light-syntax"
+    ]
+  "exception-reporting":
+    userId: "a37c932f-a802-4e94-8a99-0158c75aa95d"

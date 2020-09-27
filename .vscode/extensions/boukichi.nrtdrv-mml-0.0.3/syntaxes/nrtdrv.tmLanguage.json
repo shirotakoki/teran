@@ -1,0 +1,152 @@
+{
+	"$schema": "https://raw.githubusercontent.com/martinring/tmlanguage/master/tmlanguage.json",
+	"name": "nrtdrv",
+	"patterns": [
+		{
+			"include": "#comments"
+		},
+		{
+			"include": "#mml_header"
+		},
+		{
+			"include": "#mml_operators"
+		},
+		{
+			"include": "#mml_functions"
+		},
+		{
+			"include": "#mml_hex_patterns"
+		},
+		{
+			"include": "#mml_number_patterns"
+		}
+	],
+	"repository": {
+		"string": {
+			"patterns": [
+				{
+					"begin": "'",
+					"end": "'",
+					"name": "string.quoted.single.nrtdrv"
+				},
+				{
+					"begin": "\"",
+					"end": "\"",
+					"name": "string.quoted.double.nrtdrv"
+				}
+			]
+		},
+		"comments": {
+			"patterns": [
+				{
+					"begin": "\\/\\*",
+					"end": "\\*\\/",
+					"name": "comment.block.nrtdrv"
+				},
+				{
+					"begin": ";",
+					"end": "\\n",
+					"name": "comment.line.nrtdrv"
+				}
+			]
+		},
+		"mml_header": {
+			"patterns": [
+				{
+					"match": "^[A-Za-z0-9]+",
+					"name": "storage.type.function.nrtdrv"
+				},
+				{
+					"begin": "^#\\w+",
+					"end": "\\n",
+					"name": "storage.type.function.nrtdrv",
+					"patterns": [
+						{
+							"match": "\\s+[^;]*",
+							"name": "string.quoted.single.nrtdrv"
+						},
+						{
+							"include": "#comments"
+						}
+					]
+				},
+				{
+					"begin": "^\\@\\\"?\\w+\\\"?",
+					"end": "\\s|\\n",
+					"name": "storage.type.function.nrtdrv",
+					"patterns": [
+						{
+							"match": ":[0-9a-fA-F.pnL]+",
+							"name": "constant.numeric.integer.hexadecimal.nrtdrv"
+						}
+					]
+				},
+				{
+					"match": "^\\!\\w+",
+					"name": "keyword.control.statement.nrtdrv"
+				},
+				{
+					"match": "^\\$\\w+",
+					"name": "keyword.control.statement.nrtdrv"
+				}
+			]
+		},
+		"mml_operators": {
+			"patterns": [
+				{
+					"match": "[cdefgabr](\\+|\\-)?",
+					"name": "variable.function.nrtdrv"
+				},
+				{
+					"match": "(v\\-|v\\+|v|\\<|\\>|\\^|\\\\)",
+					"name": "keyword.operators.nrtdrv"
+				},
+				{
+					"match": "(\\[|\\]|\\/)",
+					"name": "keyword.control.nrtdrv"
+				}
+			]
+		},
+		"mml_functions": {
+			"patterns": [
+				{
+					"match": "(\\!|\\$)\\w+",
+					"name": "entity.name.function.nrtdrv"
+				},
+				{
+					"match": "\\@\\\"[\\w\\.]+\\\"",
+					"name": "entity.name.function.nrtdrv"
+				},
+				{
+					"match": "\\@\\d+",
+					"name": "entity.name.function.nrtdrv"
+				},
+				{
+					"match": "\\@TD\\d+",
+					"name": "entity.name.function.nrtdrv"
+				}
+			]
+		},
+		"mml_hex_patterns": {
+			"patterns": [
+				{
+					"match": "\\$[0-9a-fA-F]+",
+					"name": "constant.numeric.integer.hexadecimal.nrtdrv"
+				},
+				{
+					"match": "\\%[01_]+",
+					"name": "constant.numeric.integer.binary.nrtdrv"
+				}
+			]
+		},
+		"mml_number_patterns": {
+			"patterns": [
+				{
+					"match": "\\#?\\d+",
+					"name": "constant.numeric.integer.decimal.nrtdrv"
+				}
+			]
+		}
+	},
+	"scopeName": "source.nrtdrv"
+}

@@ -1,0 +1,55 @@
+<application>
+  <component name="RecentDirectoryProjectsManager">
+    <option name="recentPaths">
+      <list>
+        <option value="$USER_HOME$/AppData/Local/Temp/wordcount.py" />
+        <option value="$USER_HOME$/AppData/Local/Temp/scorelist.py" />
+        <option value="$USER_HOME$/AppData/Local/Temp/sample.mid" />
+      </list>
+    </option>
+    <option name="openPaths">
+      <list>
+        <option value="$USER_HOME$/AppData/Local/Temp/wordcount.py" />
+      </list>
+    </option>
+    <option name="lastPath" value="$USER_HOME$/AppData/Local/Temp/wordcount.py" />
+    <option name="pid" value="" />
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/AppData/Local/Temp/sample.mid">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PC-191.7479.30" />
+              <option name="productionCode" value="PC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1562837899993" />
+              <option name="buildTimestamp" value="1559142974638" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AppData/Local/Temp/scorelist.py">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PC-191.7479.30" />
+              <option name="productionCode" value="PC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1563770839671" />
+              <option name="buildTimestamp" value="1559142971706" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AppData/Local/Temp/wordcount.py">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PC-191.7479.30" />
+              <option name="productionCode" value="PC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1563776245097" />
+              <option name="buildTimestamp" value="1559142981553" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</application>

@@ -1,0 +1,194 @@
+VirtualBox COM Server 5.2.18 r124319 win.amd64 (Aug 14 2018 12:39:01) release log
+00:00:00.000000 main     Log opened 2018-10-29T00:47:24.720988100Z
+00:00:00.000000 main     Build Type: release
+00:00:00.000000 main     OS Product: Windows 10
+00:00:00.000000 main     OS Release: 10.0.17134
+00:00:00.000000 main     OS Service Pack: 
+00:00:00.015414 main     DMI Product Name: N131WU
+00:00:00.031072 main     DMI Product Version: Not Applicable                  
+00:00:00.031072 main     Host RAM: 8074MB (7.8GB) total, 3928MB (3.8GB) available
+00:00:00.031072 main     Executable: C:\Program Files\Oracle\VirtualBox\VBoxSVC.exe
+00:00:00.031072 main     Process ID: 968
+00:00:00.031072 main     Package type: WINDOWS_64BITS_GENERIC
+00:00:00.031072          VirtualBox: object creation starts
+00:00:00.031072          Home directory: 'C:\Users\teran\.VirtualBox'
+00:00:00.046662          Installed Drivers:
+00:00:00.046662            C:\WINDOWS\system32\DRIVERS\VBoxNetLwf.sys (Version: 5.2.18.24319)
+00:00:00.046662            C:\WINDOWS\system32\DRIVERS\VBoxUSBMon.sys (Version: 5.2.18.24319)
+00:00:00.046662            C:\WINDOWS\system32\DRIVERS\VBoxDrv.sys (Version: 5.2.18.24319)
+00:00:00.062273            C:\WINDOWS\system32\DRIVERS\VBoxNetAdp6.sys (Version: 5.2.18.24319)
+00:00:00.125275          Loading settings file "C:\Users\teran\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:00.192678          Getting USB descriptor failed with error 31
+00:00:00.192678          Getting USB descriptor failed with error 31
+00:00:00.192678          USB: Unknown USB device detected (idVendor: 0x5986, idProduct: 0x2110)
+00:00:00.192678          USB: Unknown USB device detected (idVendor: 0x8087, idProduct: 0x0aa7)
+00:00:00.297214          HostDnsMonitor: old information
+00:00:00.297214            no server entries
+00:00:00.297214            no domain set
+00:00:00.297214            no search string entries
+00:00:00.297214          HostDnsMonitor: new information
+00:00:00.297214            server 1: 192.168.3.1
+00:00:00.297214            no domain set
+00:00:00.297214            no search string entries
+00:00:00.297214          HostDnsMonitorProxy::notify
+00:00:00.348685          VD: VDInit finished with VINF_SUCCESS
+00:00:00.380328          Loading settings file "C:\Users\teran\VirtualBox VMs\study\study.vbox" with version "1.16-windows"
+00:00:00.401535          VirtualBox: object created
+00:00:04.644833          Saving settings file "C:\Users\teran\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:04.675894          Saving settings file "C:\Users\teran\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:09.722931          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={edba9d10-45d8-b440-1712-46ac0c9bc4c5} aComponent={ExtPackManagerWrap} aText={No extension pack by the name 'Oracle VM VirtualBox Extension Pack' was found}, preserve=false aResultDetail=0
+00:00:10.271385          ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={85cd948e-a71f-4289-281e-0ca7ad48cd89} aComponent={SessionMachine} aText={Saved screenshot data is not available (VERR_NOT_SUPPORTED)}, preserve=false aResultDetail=0
+00:00:10.573382          ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={85cd948e-a71f-4289-281e-0ca7ad48cd89} aComponent={SessionMachine} aText={Saved screenshot data is not available (VERR_NOT_SUPPORTED)}, preserve=false aResultDetail=0
+00:00:10.607318          ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={85cd948e-a71f-4289-281e-0ca7ad48cd89} aComponent={SessionMachine} aText={Saved screenshot data is not available (VERR_NOT_SUPPORTED)}, preserve=false aResultDetail=0
+00:00:10.627054          ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={85cd948e-a71f-4289-281e-0ca7ad48cd89} aComponent={SessionMachine} aText={Saved screenshot data is not available (VERR_NOT_SUPPORTED)}, preserve=false aResultDetail=0
+00:00:10.650489          ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={85cd948e-a71f-4289-281e-0ca7ad48cd89} aComponent={SessionMachine} aText={Saved screenshot data is not available (VERR_NOT_SUPPORTED)}, preserve=false aResultDetail=0
+00:00:10.679737          ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={85cd948e-a71f-4289-281e-0ca7ad48cd89} aComponent={SessionMachine} aText={Saved screenshot data is not available (VERR_NOT_SUPPORTED)}, preserve=false aResultDetail=0
+00:00:10.702820          ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={85cd948e-a71f-4289-281e-0ca7ad48cd89} aComponent={SessionMachine} aText={Saved screenshot data is not available (VERR_NOT_SUPPORTED)}, preserve=false aResultDetail=0
+00:00:10.731124          ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={85cd948e-a71f-4289-281e-0ca7ad48cd89} aComponent={SessionMachine} aText={Saved screenshot data is not available (VERR_NOT_SUPPORTED)}, preserve=false aResultDetail=0
+00:04:35.368925 MainPower Host suspending: Paused 1 VMs
+01:03:44.781574 MainPower Host resumed: Resumed 1 VMs
+01:03:46.904412 dns-monitor HostDnsMonitor: old information
+01:03:46.904412 dns-monitor   server 1: 192.168.3.1
+01:03:46.904412 dns-monitor   no domain set
+01:03:46.904412 dns-monitor   no search string entries
+01:03:46.904412 dns-monitor HostDnsMonitor: new information
+01:03:46.904412 dns-monitor   no server entries
+01:03:46.904412 dns-monitor   no domain set
+01:03:46.904412 dns-monitor   no search string entries
+01:03:46.904412 dns-monitor HostDnsMonitorProxy::notify
+01:03:56.141304 dns-monitor HostDnsMonitor: old information
+01:03:56.141304 dns-monitor   no server entries
+01:03:56.141304 dns-monitor   no domain set
+01:03:56.141304 dns-monitor   no search string entries
+01:03:56.141304 dns-monitor HostDnsMonitor: new information
+01:03:56.141304 dns-monitor   server 1: 202.234.232.6
+01:03:56.141304 dns-monitor   server 2: 221.113.139.250
+01:03:56.141304 dns-monitor   domain: fun.ac.jp
+01:03:56.141304 dns-monitor   no search string entries
+01:03:56.141304 dns-monitor HostDnsMonitorProxy::notify
+01:12:41.848216 USBPROXY Getting USB descriptor failed with error 31
+01:12:41.848216 USBPROXY Getting USB descriptor failed with error 31
+01:18:23.043267 USBPROXY Getting USB descriptor failed with error 31
+01:24:19.364802 USBPROXY Getting USB descriptor failed with error 31
+01:24:19.364802 USBPROXY Getting USB descriptor failed with error 31
+02:22:48.480619 MainPower Host suspending: Paused 1 VMs
+02:28:36.707466 MainPower Host resumed: Resumed 1 VMs
+02:28:38.750925 dns-monitor HostDnsMonitor: old information
+02:28:38.750925 dns-monitor   server 1: 202.234.232.6
+02:28:38.750925 dns-monitor   server 2: 221.113.139.250
+02:28:38.750925 dns-monitor   domain: fun.ac.jp
+02:28:38.750925 dns-monitor   no search string entries
+02:28:38.750925 dns-monitor HostDnsMonitor: new information
+02:28:38.750925 dns-monitor   no server entries
+02:28:38.750925 dns-monitor   no domain set
+02:28:38.750925 dns-monitor   no search string entries
+02:28:38.750925 dns-monitor HostDnsMonitorProxy::notify
+02:28:43.320532 dns-monitor HostDnsMonitor: old information
+02:28:43.320532 dns-monitor   no server entries
+02:28:43.320532 dns-monitor   no domain set
+02:28:43.320532 dns-monitor   no search string entries
+02:28:43.320532 dns-monitor HostDnsMonitor: new information
+02:28:43.320532 dns-monitor   server 1: 202.234.232.6
+02:28:43.320532 dns-monitor   server 2: 221.113.139.250
+02:28:43.320532 dns-monitor   domain: fun.ac.jp
+02:28:43.320532 dns-monitor   no search string entries
+02:28:43.320532 dns-monitor HostDnsMonitorProxy::notify
+02:38:24.632717 MainPower Host suspending: Paused 1 VMs
+03:02:57.702981 MainPower Host resumed: Resumed 1 VMs
+03:02:59.735014 dns-monitor HostDnsMonitor: old information
+03:02:59.735014 dns-monitor   server 1: 202.234.232.6
+03:02:59.735014 dns-monitor   server 2: 221.113.139.250
+03:02:59.735014 dns-monitor   domain: fun.ac.jp
+03:02:59.735014 dns-monitor   no search string entries
+03:02:59.735014 dns-monitor HostDnsMonitor: new information
+03:02:59.735014 dns-monitor   no server entries
+03:02:59.735014 dns-monitor   no domain set
+03:02:59.735014 dns-monitor   no search string entries
+03:02:59.735014 dns-monitor HostDnsMonitorProxy::notify
+03:03:11.735897 dns-monitor HostDnsMonitor: old information
+03:03:11.735897 dns-monitor   no server entries
+03:03:11.735897 dns-monitor   no domain set
+03:03:11.735897 dns-monitor   no search string entries
+03:03:11.735897 dns-monitor HostDnsMonitor: new information
+03:03:11.735897 dns-monitor   server 1: 202.234.232.6
+03:03:11.735897 dns-monitor   server 2: 221.113.139.250
+03:03:11.735897 dns-monitor   domain: fun.ac.jp
+03:03:11.735897 dns-monitor   no search string entries
+03:03:11.735897 dns-monitor HostDnsMonitorProxy::notify
+03:35:06.841330          Saving settings file "C:\Users\teran\VirtualBox VMs\study\study.vbox" with version "1.16-windows"
+03:36:38.763042          Saving settings file "C:\Users\teran\VirtualBox VMs\study\study.vbox" with version "1.16-windows"
+03:50:26.064361 MainPower Host suspending: Paused 1 VMs
+03:53:14.795629 MainPower Host resumed: Resumed 1 VMs
+03:53:16.799410 dns-monitor HostDnsMonitor: old information
+03:53:16.799410 dns-monitor   server 1: 202.234.232.6
+03:53:16.799410 dns-monitor   server 2: 221.113.139.250
+03:53:16.799410 dns-monitor   domain: fun.ac.jp
+03:53:16.799410 dns-monitor   no search string entries
+03:53:16.799410 dns-monitor HostDnsMonitor: new information
+03:53:16.799410 dns-monitor   no server entries
+03:53:16.799410 dns-monitor   no domain set
+03:53:16.799410 dns-monitor   no search string entries
+03:53:16.799410 dns-monitor HostDnsMonitorProxy::notify
+03:53:27.676779 dns-monitor HostDnsMonitor: old information
+03:53:27.676779 dns-monitor   no server entries
+03:53:27.676779 dns-monitor   no domain set
+03:53:27.676779 dns-monitor   no search string entries
+03:53:27.676779 dns-monitor HostDnsMonitor: new information
+03:53:27.676779 dns-monitor   server 1: 202.234.232.6
+03:53:27.676779 dns-monitor   server 2: 221.113.139.250
+03:53:27.676779 dns-monitor   domain: fun.ac.jp
+03:53:27.676779 dns-monitor   no search string entries
+03:53:27.676779 dns-monitor HostDnsMonitorProxy::notify
+03:54:26.229242 dns-monitor HostDnsMonitor: old information
+03:54:26.230217 dns-monitor   server 1: 202.234.232.6
+03:54:26.230217 dns-monitor   server 2: 221.113.139.250
+03:54:26.230217 dns-monitor   domain: fun.ac.jp
+03:54:26.230217 dns-monitor   no search string entries
+03:54:26.230217 dns-monitor HostDnsMonitor: new information
+03:54:26.230217 dns-monitor   no server entries
+03:54:26.230217 dns-monitor   no domain set
+03:54:26.230217 dns-monitor   no search string entries
+03:54:26.230217 dns-monitor HostDnsMonitorProxy::notify
+03:54:28.276714 dns-monitor HostDnsMonitor: old information
+03:54:28.276714 dns-monitor   no server entries
+03:54:28.276714 dns-monitor   no domain set
+03:54:28.276714 dns-monitor   no search string entries
+03:54:28.276714 dns-monitor HostDnsMonitor: new information
+03:54:28.276714 dns-monitor   server 1: 10.97.193.37
+03:54:28.276714 dns-monitor   server 2: 10.97.193.101
+03:54:28.276714 dns-monitor   domain: fun.ac.jp
+03:54:28.276714 dns-monitor   no search string entries
+03:54:28.276714 dns-monitor HostDnsMonitorProxy::notify
+03:55:40.589307 MainPower Host suspending: Paused 1 VMs
+04:15:17.525698 MainPower Host resumed: Resumed 1 VMs
+06:39:59.750296 MainPower Host suspending: Paused 1 VMs
+11:45:00.857212 MainPower Host resumed: Resumed 1 VMs
+11:45:04.988664 dns-monitor HostDnsMonitor: old information
+11:45:04.988664 dns-monitor   server 1: 10.97.193.37
+11:45:04.988664 dns-monitor   server 2: 10.97.193.101
+11:45:04.988664 dns-monitor   domain: fun.ac.jp
+11:45:04.988664 dns-monitor   no search string entries
+11:45:04.988664 dns-monitor HostDnsMonitor: new information
+11:45:04.988664 dns-monitor   server 1: 192.168.3.1
+11:45:04.988664 dns-monitor   no domain set
+11:45:04.988664 dns-monitor   no search string entries
+11:45:04.988664 dns-monitor HostDnsMonitorProxy::notify
+12:29:10.311963          Saving settings file "C:\Users\teran\VirtualBox VMs\study\study.vbox" with version "1.16-windows"
+12:29:10.347099          Saving settings file "C:\Users\teran\VirtualBox VMs\study\study.vbox" with version "1.16-windows"
+12:30:32.823647          Saving settings file "C:\Users\teran\VirtualBox VMs\study\study.vbox" with version "1.16-windows"
+12:30:40.633569          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={edba9d10-45d8-b440-1712-46ac0c9bc4c5} aComponent={ExtPackManagerWrap} aText={No extension pack by the name 'Oracle VM VirtualBox Extension Pack' was found}, preserve=false aResultDetail=0
+12:30:41.227203          ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={85cd948e-a71f-4289-281e-0ca7ad48cd89} aComponent={SessionMachine} aText={Saved screenshot data is not available (VERR_NOT_SUPPORTED)}, preserve=false aResultDetail=0
+12:30:41.565460          ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={85cd948e-a71f-4289-281e-0ca7ad48cd89} aComponent={SessionMachine} aText={Saved screenshot data is not available (VERR_NOT_SUPPORTED)}, preserve=false aResultDetail=0
+12:30:41.599448          ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={85cd948e-a71f-4289-281e-0ca7ad48cd89} aComponent={SessionMachine} aText={Saved screenshot data is not available (VERR_NOT_SUPPORTED)}, preserve=false aResultDetail=0
+12:30:41.641669          ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={85cd948e-a71f-4289-281e-0ca7ad48cd89} aComponent={SessionMachine} aText={Saved screenshot data is not available (VERR_NOT_SUPPORTED)}, preserve=false aResultDetail=0
+12:30:41.675888          ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={85cd948e-a71f-4289-281e-0ca7ad48cd89} aComponent={SessionMachine} aText={Saved screenshot data is not available (VERR_NOT_SUPPORTED)}, preserve=false aResultDetail=0
+12:30:41.717007          ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={85cd948e-a71f-4289-281e-0ca7ad48cd89} aComponent={SessionMachine} aText={Saved screenshot data is not available (VERR_NOT_SUPPORTED)}, preserve=false aResultDetail=0
+12:30:41.751921          ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={85cd948e-a71f-4289-281e-0ca7ad48cd89} aComponent={SessionMachine} aText={Saved screenshot data is not available (VERR_NOT_SUPPORTED)}, preserve=false aResultDetail=0
+12:30:41.789997          ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={85cd948e-a71f-4289-281e-0ca7ad48cd89} aComponent={SessionMachine} aText={Saved screenshot data is not available (VERR_NOT_SUPPORTED)}, preserve=false aResultDetail=0
+12:30:57.341701          Saving settings file "C:\Users\teran\VirtualBox VMs\study\study.vbox" with version "1.16-windows"
+14:06:22.671640 USBPROXY Getting USB descriptor failed with error 31
+14:09:36.026841 USBPROXY Getting USB descriptor failed with error 31
+14:09:36.026841 USBPROXY Getting USB descriptor failed with error 31
+17:17:29.146311 MainPower Host suspending: Paused 1 VMs
+24:55:09.848459 MainPower Host resumed: Resumed 1 VMs
+24:55:09.848459 MainPower Log rotated - Log started 2018-10-29T00:47:24.720988100Z
